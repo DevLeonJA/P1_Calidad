@@ -7,6 +7,7 @@ public class practica1 {
 		System.out.print("Rama 1");
 		System.out.print("Paso 2");
 		System.out.print("Paso 3");
+		System.out.print("Rama Discontinua");
 		
 
 	}
